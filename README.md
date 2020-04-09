@@ -5,7 +5,7 @@ This repository contains files for a project completed as part of Machine Learni
 ## Table of Contents
 
 1. [Motivation](#motivation)
-2. [File descriptions](#files)
+2. [Files descriptions](#filesdescriptions)
 3. [Data](#data)
 4. [Training](#train)
 5. [Running](#run)
@@ -14,7 +14,7 @@ This repository contains files for a project completed as part of Machine Learni
 
 In this project, a jupyter notebook was initially used to develop code for an image classifier built with PyTorch, then it was converted into a command line application.
 
-## Files description <a name="files"></a>
+## Files description <a name="filesdescriptions"></a>
 
 * A HTML version of the notebook used as base for the development is `index.html`, available online at https://michelnagme.github.io/udacity-image-classifier-project/
 * `cat_to_name.json` is a map of ids to names for the flowers available in dataset.
@@ -27,6 +27,8 @@ In this project, a jupyter notebook was initially used to develop code for an im
 The "102 Category Flower Dataset" used for this project is available [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html). Dataset files were not included in this repository to keep it as concise as possible.
 
 ## Usage
+
+To run files locally, one only needs Python 3.x installed.
 
 ### Training <a name="train"></a>
 
