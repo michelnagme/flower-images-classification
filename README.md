@@ -9,6 +9,7 @@ This repository contains files for a project completed as part of Machine Learni
 3. [Data](#data)
 4. [Training](#train)
 5. [Running](#run)
+6. [Licensing](#license)
 
 ## Motivation <a name="motivation"></a>
 
@@ -53,3 +54,7 @@ To predict flower name from an image with `predict.py` along with the probabilit
 * * Return top KK most likely classes: `python predict.py input checkpoint --top_k 3`
 * * Use a mapping of categories to real names: `python predict.py input checkpoint --category_names cat_to_name.json`
 * * Use GPU for inference: `python predict.py input checkpoint --gpu`
+
+## Licensing <a name="license"></a>
+
+This repository is licensed under the MIT License.
