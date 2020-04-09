@@ -30,7 +30,7 @@ The "102 Category Flower Dataset" used for this project is available [here](http
 
 To run files locally, one only needs Python 3.x installed.
 
-**ATTENTION:** Choosing not to use GPU or not having a NVIDIA card available will dramatically slow down training phase.
+_**ATTENTION:** Choosing not to use GPU or not having a NVIDIA card available will dramatically slow down training phase speed._
 
 ### Training <a name="train"></a>
 
