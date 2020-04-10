@@ -1,6 +1,6 @@
 # Udacity Project: Image Classifier
 
-This repository contains files for a project completed as part of Machine Learning Introduction Nanodegree at Udacity.
+This repository contains a project completed as part of Machine Learning Introduction Nanodegree at Udacity.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository contains files for a project completed as part of Machine Learni
 
 ## Motivation <a name="motivation"></a>
 
-In this project, a jupyter notebook was initially used to develop code for an image classifier built with PyTorch, then it was converted into a command line application.
+In this project, a jupyter notebook was initially used to develop code for an image classifier using deep learning built with PyTorch, then it was converted into a command line application.
 
 ## Files description <a name="filesdescriptions"></a>
 
