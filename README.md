@@ -1,4 +1,4 @@
-# Udacity Project: Image Classifier
+# Image Classifier with PyTorch
 
 This repository contains a project completed as part of Machine Learning Introduction Nanodegree at Udacity.
 
